@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheSneki
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning in University
+- 🌱 I like to program in Python and I'm learning it
 - 📫 How to reach me in VK
 
 <!---
